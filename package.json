@@ -1,5 +1,5 @@
 {
-  "name": "extract-css-chunks-webpack-plugin",
+  "name": "@brickblock/extract-css-chunks-webpack-plugin",
   "version": "0.0.0-placeholder",
   "author": "James Gillmore <james@faceyspacey.com>",
   "description": "Extract CSS from chunks into stylesheets + HMR",
@@ -52,10 +52,10 @@
     "standard-version": "^4.0.0",
     "webpack": "^2.2.0"
   },
-  "homepage": "http://github.com/faceyspacey/extract-css-chunks-webpack-plugin",
+  "homepage": "http://github.com/chapati23/extract-css-chunks-webpack-plugin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/faceyspacey/extract-css-chunks-webpack-plugin.git"
+    "url": "https://github.com/chapati23/extract-css-chunks-webpack-plugin.git"
   },
   "config": {
     "commitizen": {
